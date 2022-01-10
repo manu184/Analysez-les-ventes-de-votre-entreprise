@@ -15,17 +15,26 @@ Finally, I answered some questions that were asked to me, especially about the c
 ## Data used and sources
 In this project we will use :
 
-[customers.csv] -- List of customers, including customer id, date of birth and gender
-[products.csv] -- List of products, including product id, price and category
-[transactions.csv] -- List of sales, including product id, date, session id (cart) and finally customer id
+[customers.csv] 
+
+[products.csv]
+
+[transactions.csv] 
+
+[Ventes.csv]
+
 All these data are made by my training structure for this project
 
-Project done in python using Jupyter, and the following libraries :
+**Project done in python using Jupyter, and the following libraries :**
 
-matplotlib
-pandas
-datetime
-seaborn
-scipy
-numpy
-re
+*matplotlib
+
+*pandas
+
+*datetime
+
+*seaborn
+
+*scipy
+
+*numpy
